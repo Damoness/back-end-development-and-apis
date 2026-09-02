@@ -30,14 +30,14 @@
     "dashedName": "build-a-case-converter",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 44,
+    "currentLesson": 43,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
     "numberOfLessons": 45,
-    "completedDate": 1788225731957
+    "completedDate": 1788227473259
   },
   {
     "id": 3,
@@ -50,7 +50,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1788313636165
   },
   {
     "id": 4,
